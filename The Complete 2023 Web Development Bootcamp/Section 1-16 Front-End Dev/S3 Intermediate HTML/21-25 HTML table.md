@@ -44,5 +44,5 @@
 1. [Personal-site.html](https://github.com/SherryFang1207/Udemy-Notes/blob/main/The%20Complete%202023%20Web%20Development%20Bootcamp/Section%201-16%20Front-End%20Dev/S2_Intro%20to%20HTML/Personal-site.html)
 2. [hobbies.html](https://github.com/SherryFang1207/Udemy-Notes/blob/main/The%20Complete%202023%20Web%20Development%20Bootcamp/Section%201-16%20Front-End%20Dev/S2_Intro%20to%20HTML/hobbies.html)
 3. [contact_me.html](https://github.com/SherryFang1207/Udemy-Notes/blob/main/The%20Complete%202023%20Web%20Development%20Bootcamp/Section%201-16%20Front-End%20Dev/S2_Intro%20to%20HTML/contact_me.html)
-In this section, we added a `table.html` to our personal site.
+<br>In this section, we added a `table.html` to our personal site.<br>
 4. [table.html](https://github.com/SherryFang1207/Udemy-Notes/blob/main/The%20Complete%202023%20Web%20Development%20Bootcamp/Section%201-16%20Front-End%20Dev/S2_Intro%20to%20HTML/table.html)
