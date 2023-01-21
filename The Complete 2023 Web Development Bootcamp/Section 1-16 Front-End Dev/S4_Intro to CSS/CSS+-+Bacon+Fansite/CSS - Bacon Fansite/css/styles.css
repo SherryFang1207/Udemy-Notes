@@ -1,0 +1,60 @@
+/* Important reference page for ALL general CSS properties we can access and change:
+    https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#basic_rule_syntax
+*/
+/***************************TAG SELECTORS**********************/
+/*
+body {
+    background-color: red;
+}
+*/
+h1 {
+    color:red;
+    /* the best practice of listing css properties is to have them listed in alphabetical sequence */
+
+}
+img {
+    background-color: red;
+}
+
+
+/*************************CLASS SELECTORS***********************/
+.edible {
+    background-color: green;
+}
+
+.non-edible{
+    background-color: purple;
+}
+
+.heads{
+    color:blue;
+}
+
+.round{
+    border-radius: 100%;
+}
+.heads:hover{
+    color:gold;
+    font-size: 150%;
+}
+
+/**************************ID SELECTORS*************************/
+#heading{
+    color:deeppink;
+}
+#highlight{
+    color:yellow;
+}
+/*
+#highlight:hover{
+    color:black;
+}*/
+#tony{
+    background-color: aquamarine;
+}
+#tony:hover{
+    background-color: gold;
+}
+/**********************Psudo SELECTORS**************************/
+/* These selectors are triggered by the states(actions) of the TAG/CLASS/ID selectors.
+/* Note that for property changings, priority goes from: ID > Class > Tag
