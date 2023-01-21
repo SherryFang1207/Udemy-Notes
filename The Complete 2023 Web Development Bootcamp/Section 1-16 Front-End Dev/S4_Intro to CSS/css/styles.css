@@ -1,0 +1,9 @@
+body {
+    background-color: yellow;
+}
+hr {
+    width:30%;
+    border-style: dotted none none;
+    border-width: 20px;
+    color:deeppink;
+}
