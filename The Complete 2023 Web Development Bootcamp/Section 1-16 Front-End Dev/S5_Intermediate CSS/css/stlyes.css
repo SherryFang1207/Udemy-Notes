@@ -1,3 +1,23 @@
-body{
-    background-color: rgb(172, 136, 157);
+body {
+    margin:0;
+}
+h1 {
+    margin-top:0;
+}
+div {
+    background-color: #7286D3;
+}
+/***************************Class Selector************************/
+.topContainer {
+    background-color: #8EA7E9;
+}
+.middleContainer {
+    height: 200px;
+    width: 200px;
+    background-color: #E5E0FF;
+}
+.bottomContainer {
+    height: 200px;
+    width: 200px;
+    background-color: #FFF2F2;
 }
