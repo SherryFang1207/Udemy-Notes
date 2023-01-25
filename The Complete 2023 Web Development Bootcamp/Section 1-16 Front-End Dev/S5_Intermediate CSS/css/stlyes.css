@@ -1,23 +1,49 @@
+/*************************Tag Selector*****************************/
 body {
     margin:0;
+    text-align: center;
+    /*text-align property must be set inside the parent element*/
+    /*text-align can center all elements that don't have their width specified*/
+    /*To center elements with specific width, use margin property*/
+    font-family: 'Merriweather', serif;
+
+
 }
 h1 {
     margin-top:0;
+    /* 4 types of margin short-hands:
+    margin: all-margin;
+    margin: top&bottom left&right;
+    margin: top right&left bottom;
+    margin: top right bottom left;
+    */
+    font-family: 'Sacramento', cursive;
 }
-div {
-    background-color: #7286D3;
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
 }
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 /***************************Class Selector************************/
 .topContainer {
-    background-color: #8EA7E9;
+    background-color: #e4f9f5;
+    position:relative;
+    padding-top: 100px;
 }
-.middleContainer {
-    height: 200px;
-    width: 200px;
-    background-color: #E5E0FF;
+.software {
+    text-decoration: underline;
 }
-.bottomContainer {
-    height: 200px;
-    width: 200px;
-    background-color: #FFF2F2;
+.topCloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.botCloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
 }
