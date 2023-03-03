@@ -9,7 +9,7 @@ app.get("/contact", function(req, res) {
     res.send("Please contact me at.. Boom!");
 });
 app.get("/about", function(req, res){
-    res.send("This page is kacked by JINX!!!!");
+    res.send("This page is hacked by JINX!!!!");
 });
 app.get("/hobbies", function(req,res){
     res.send("I love GUNS. You will buy me some new GUNS, won't you?");
